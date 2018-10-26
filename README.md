@@ -1,4 +1,4 @@
-## Download arquivos
+## Links de projetos
 
 Projeto: [Cálculo Divertido](https://damatutfpr.github.io/calculodivertido/)
 
